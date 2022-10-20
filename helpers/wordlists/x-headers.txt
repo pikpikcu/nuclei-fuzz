@@ -1,0 +1,13 @@
+X-Original-URL
+X-Rewrite-URL
+Forwarded
+Origin
+Referer
+X-Forwarded-Host
+X-Forwarded-Proto
+X-ProxyUser-Ip
+X-Wap-Profile
+Client-IP
+True-Client-IP
+Cluster-Client-IP
+X-Custom-IP-Authorization
