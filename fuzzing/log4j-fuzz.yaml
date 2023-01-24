@@ -3,7 +3,7 @@ id: log4j-fuzz
 info:
   name: log4j Fuzzing
   author: pikpikcu
-  severity: medium
+  severity: critical
   tags: log4j,fuzz
 
 requests:
