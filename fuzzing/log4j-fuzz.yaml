@@ -1,7 +1,7 @@
 id: log4j-fuzz
 
 info:
-  name: X-Headers Fuzzing
+  name: log4j Fuzzing
   author: pikpikcu
   severity: medium
   tags: log4j,fuzz
